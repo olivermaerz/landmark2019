@@ -1,5 +1,5 @@
-# landmark2019
-Landmark Recognition 2019
+# Google Landmark Recognition 2019 
+## Team *Partials, Callbacks and Hooks*
 
 ### Project related links:
 
