@@ -5,7 +5,7 @@ import os
 
 
 # loop through the 500 files to download all tar files
-for i in range(0, 499):
+for i in range(0, 500):
   number_string = str(i).zfill(3)
   url = 'https://s3.amazonaws.com/google-landmark/train/images_{}.tar'.format(number_string)
   print("Downloading: {}".format(url))
