@@ -33,7 +33,7 @@ Login to Google account:
 ```bash 
 gcloud auth application-default login
 ```
-Finally mount the bucket (in the example the GCS bucket's name is *landmark-traing*)
+Finally mount the bucket (the GCS bucket's name is *landmark-traing*)
 ```bash
 gcsfuse landmark-training bucket/
 ```
